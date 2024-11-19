@@ -1,0 +1,14 @@
+C:\Users\cheth\source\repos\Programs\bin\Debug\net8.0\Programs.exe
+C:\Users\cheth\source\repos\Programs\bin\Debug\net8.0\Programs.deps.json
+C:\Users\cheth\source\repos\Programs\bin\Debug\net8.0\Programs.runtimeconfig.json
+C:\Users\cheth\source\repos\Programs\bin\Debug\net8.0\Programs.dll
+C:\Users\cheth\source\repos\Programs\bin\Debug\net8.0\Programs.pdb
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.AssemblyInfoInputs.cache
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.AssemblyInfo.cs
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.csproj.CoreCompileInputs.cache
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.dll
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\refint\Programs.dll
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.pdb
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\Programs.genruntimeconfig.cache
+C:\Users\cheth\source\repos\Programs\obj\Debug\net8.0\ref\Programs.dll

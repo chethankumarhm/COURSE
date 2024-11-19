@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace COURSE
+namespace Programs.CSharp_programs
 {
-    internal class CSharp_Programs
+    internal class AccesdingOrder
     {
         public static void Main(string[]args)
         {
